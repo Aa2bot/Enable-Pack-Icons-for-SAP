@@ -1,2 +1,12 @@
+
+Title
+
+
+
+
+
+
+
+
 # Hover Inspector\n\nMelonLoader mod that keeps opponent pack icons visible on every scoreboard (mini/full) by forcing the pack graphics to stay active and opaque. It mimics the lightweight approach of EnableMiniLives while logging API calls for diagnostics.\n\n## Features\n- Always reveals Content/Pack/Standard and Content/Pack/Standard/Image inside Scoreboard and ScoreboardMini entries.\n- Skips the presumed local player (first entry) so only opponents' packs stay visible.\n- Logs every UnityWebRequest request as [API] METHOD URL.\n- Pressing F6 logs the pack assets that were reinforced on that frame.\n\n## Build\n`ash\ndotnet build -c Release\n`\n
 ## Install\nDrop in/Release/net6.0/HoverInspector.dll into %LOCALAPPDATA%/Low/Super Auto Pets/Mods (or the equivalent Steam mods folder).\n
