@@ -1,0 +1,13 @@
+C:\Dev\Enable-Pack-Icons-for-SAP\bin\Debug\net6.0\HoverInspector.deps.json
+C:\Dev\Enable-Pack-Icons-for-SAP\bin\Debug\net6.0\HoverInspector.dll
+C:\Dev\Enable-Pack-Icons-for-SAP\bin\Debug\net6.0\HoverInspector.pdb
+C:\Dev\Enable-Pack-Icons-for-SAP\obj\Debug\net6.0\HoverInspector.csproj.AssemblyReference.cache
+C:\Dev\Enable-Pack-Icons-for-SAP\obj\Debug\net6.0\HoverInspector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Enable-Pack-Icons-for-SAP\obj\Debug\net6.0\HoverInspector.AssemblyInfoInputs.cache
+C:\Dev\Enable-Pack-Icons-for-SAP\obj\Debug\net6.0\HoverInspector.AssemblyInfo.cs
+C:\Dev\Enable-Pack-Icons-for-SAP\obj\Debug\net6.0\HoverInspector.csproj.CoreCompileInputs.cache
+C:\Dev\Enable-Pack-Icons-for-SAP\obj\Debug\net6.0\HoverInspector.sourcelink.json
+C:\Dev\Enable-Pack-Icons-for-SAP\obj\Debug\net6.0\HoverInspector.dll
+C:\Dev\Enable-Pack-Icons-for-SAP\obj\Debug\net6.0\refint\HoverInspector.dll
+C:\Dev\Enable-Pack-Icons-for-SAP\obj\Debug\net6.0\HoverInspector.pdb
+C:\Dev\Enable-Pack-Icons-for-SAP\obj\Debug\net6.0\ref\HoverInspector.dll

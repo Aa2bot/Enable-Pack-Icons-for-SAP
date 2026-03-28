@@ -74,15 +74,18 @@ namespace HoverInspector
                     continue;
 
                 var entries = root.transform;
-                bool skipFirst = true; // always skip presumed local player (first entry)
+                bool skipFirstEntry = true; // skip the first actual scoreboard entry, which is the local player
                 for (int i = 0; i < entries.childCount; i++)
                 {
                     var child = entries.GetChild(i);
                     if (child == null || !child.name.StartsWith(HoverInspectorMod.EntryNamePrefix))
                         continue;
 
-                    if (skipFirst && i == 0)
+                    if (skipFirstEntry)
+                    {
+                        skipFirstEntry = false;
                         continue;
+                    }
 
                     foreach (var sub in HoverInspectorMod.PackSubpaths)
                     {

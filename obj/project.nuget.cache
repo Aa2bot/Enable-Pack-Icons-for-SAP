@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mlM41pnQ3S4=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Enable-Pack-Icons-for-SAP\\HoverInspector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sai\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Sai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Sai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
